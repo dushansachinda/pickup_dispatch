@@ -1,0 +1,9 @@
+#Fri Oct 16 23:17:37 PDT 2020
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+eclipse.preferences.version=1
+org.eclipse.jdt.core.compiler.source=1.8
+encoding/src/test/resources=UTF-8
+encoding/src/main/resources=UTF-8
+encoding/src/test/java=UTF-8
+encoding/src/main=UTF-8
+org.eclipse.jdt.core.compiler.compliance=1.8
