@@ -16,8 +16,8 @@ The demo showcasing WSO2 API Management with WSO2 role-based access control (RBA
  ### Setup
 - Download Pickup-Manager/Dispatcher, compile web project using apache maven commands and deploy to the tomcat
 - Upload the WSO2 API aritact [WSO2-export-API]
-- Follow up video setup users and roles as describe   [Video]
+- Follow up [video] on how to setup users and roles
 
 
    [WSO2-export-API]: https://apim.docs.wso2.com/en/latest/learn/api-controller/migrating-apis-to-different-environments/#export-an-api
-   [Video]:https://www.youtube.com/watch?v=4V0c7adEGe4
+   [video]:https://www.youtube.com/watch?v=4V0c7adEGe4
