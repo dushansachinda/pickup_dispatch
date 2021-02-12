@@ -1,4 +1,4 @@
-# RoleBase Controll Accessbility
+# Role Based Control Accessibility in WSO2 APIM
 
 The demo showcasing WSO2 API Management with WSO2 role-based access control (RBAC) to enable fine-grained access management for API Management services and entities with practical use case(for example, APIs and policies, scopes). This project conisists of 4 component
 
